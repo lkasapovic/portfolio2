@@ -4,19 +4,22 @@ div {
     padding: 35px;
 }
 
-.container {
-    border-color: palegreen;
-}
-
-.row {
-    border-color: pink;
-}
-
 .list-group-item {
     border: 0;
     margin-top: 25px;
     margin-bottom: 25px;
-} 
-html {
-   background-image: url(http://static.gamespot.com/uploads/original/1534/15343359/2371910-pokemon-together-pokemon-wallpaper-dektop-background.jpg);
 }
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    color: darkviolet;
+}
+
+
