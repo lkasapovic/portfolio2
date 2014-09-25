@@ -20,14 +20,15 @@ h1 {
 }
 
 body {
-    color: darkviolet;
+    color: blueviolet;
 }
 
-#h1{
-    background-color: bisque; 
+#h1 {
+   background-color: bisque; 
 }
 
 h3 {
     
     font-size: 17px;
 }
+
