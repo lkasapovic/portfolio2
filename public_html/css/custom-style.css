@@ -1,4 +1,7 @@
-div {
+#h1 {
+    background-color: bisque;
+}
+index.html {
     border-style: groove;
     border-width: 4px;
     padding: 35px;
@@ -10,25 +13,20 @@ div {
     margin-bottom: 25px;
 }
 
-h2 {
-    
-}
 
-h1 {
-    
+html {
+    text-align: center;
     font-size: 65px;
-}
+    }
 
+    
 body {
-    color: blueviolet;
+    background-color:  bisque;
+    color: darkviolet;
 }
 
-#h1 {
-   background-color: bisque; 
-}
 
 h3 {
-    
     font-size: 17px;
 }
 
